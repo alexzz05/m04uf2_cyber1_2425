@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="5">
+	<title>Thinking Out Loud</title>
+	<artists>
+		<artist id="3">Ed Sheeran</artist>
+	</artists>
+	<genres>
+		<genre id="3">Pop Acústico</genre>
+	</genres>
+	<duration seconds="281" />
+	<lyrics lang="en" format="str">
+	When your legs don't work like they used to before
+	</lyrics>
+	<album id="3">X</album>
+	<record_label id="3">Asylum Records</record_label>
+</song>

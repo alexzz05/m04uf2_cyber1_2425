@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="6">
+	<title>Photograph</title>
+	<artists>
+		<artist id="3">Ed Sheeran</artist>
+	</artists>
+	<genres>
+		<genre id="3">Pop Acústico</genre>
+	</genres>
+	<duration seconds="258" />
+	<lyrics lang="en" format="str">
+	Loving can hurt, loving can hurt sometimes
+	</lyrics>
+	<album id="3">X</album>
+	<record_label id="3">Asylum Records</record_label>
+</song>

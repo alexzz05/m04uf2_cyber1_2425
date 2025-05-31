@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="13">
+	<title>Time of Our Lives</title>
+	<artists>
+		<artist id="4">Pitbull</artist>
+		<artist id="5">Ne-Yo</artist>
+	</artists>
+	<genres>
+		<genre id="4">Dance Pop</genre>
+	</genres>
+	<duration seconds="210" />
+	<lyrics lang="en" format="str">
+	I knew my rent was gon' be late about a week ago
+	</lyrics>
+	<album id="4">Globalization</album>
+	<record_label id="4">RCA Records</record_label>
+</song>

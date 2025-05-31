@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="3">
+	<name>Ed Sheeran</name>
+	<nationality country="UK" />
+	<birthdate date="1991-02-17" />
+	<albums>
+		<album id="3">X</album>
+	</albums>
+</artist>

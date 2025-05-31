@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="14">
+	<title>Fireball</title>
+	<artists>
+		<artist id="4">Pitbull</artist>
+		<artist id="6">John Ryan</artist>
+	</artists>
+	<genres>
+		<genre id="4">Dance Pop</genre>
+	</genres>
+	<duration seconds="207" />
+	<lyrics lang="en" format="str">
+	I saw, I came, I conquered
+	Or should I say, I saw I conquered, I came
+	</lyrics>
+	<album id="4">Globalization</album>
+	<record_label id="4">RCA Records</record_label>
+</song>

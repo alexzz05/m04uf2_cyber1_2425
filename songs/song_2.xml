@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="2">
+	<title>That’s What I Like</title>
+	<artists>
+		<artist id="1">Bruno Mars</artist>
+	</artists>
+	<genres>
+		<genre id="1">Funk</genre>
+	</genres>
+	<duration seconds="187" />
+	<lyrics lang="en" format="str">
+	I got a condo in Manhattan
+	</lyrics>
+	<album id="1">24K Magic</album>
+	<record_label id="1">Atlantic Records</record_label>
+</song>

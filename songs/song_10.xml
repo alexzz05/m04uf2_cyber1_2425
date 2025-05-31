@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="10">
+	<title>It Was Always You</title>
+	<artists>
+		<artist id="2">Maroon 5</artist>
+	</artists>
+	<genres>
+		<genre id="2">Pop Rock</genre>
+	</genres>
+	<duration seconds="221" />
+	<lyrics lang="en" format="str">
+	I felt the sparks the moment I saw you
+	</lyrics>
+	<album id="2">V</album>
+	<record_label id="2">Interscope Records</record_label>
+</song>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="1">
+	<name>Bruno Mars</name>
+	<nationality country="USA" />
+	<birthdate date="1985-10-08" />
+	<albums>
+		<album id="1">24K Magic</album>
+	</albums>
+</artist>

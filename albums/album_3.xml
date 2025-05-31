@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<album id="3">
+	<title>X</title>
+	<cover src="covers/x_cover.jpg" />
+	<songs>
+		<song id="5">Thinking Out Loud</song>
+		<song id="6">Photograph</song>
+		<song id="11">Don't</song>
+		<song id="12">Sing</song>
+		<song id="25">One</song>
+		<song id="26">I'm a Mess</song>
+		<song id="27">Nina</song>
+		<song id="28">Bloodstream</song>
+		<song id="29">Tenerife Sea</song>
+		<song id="30">Runaway</song>
+		<song id="31">The Man</song>
+		<song id="32">Afire Love</song>
+	</songs>
+</album>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="12">
+	<title>Sing</title>
+	<artists>
+		<artist id="3">Ed Sheeran</artist>
+	</artists>
+	<genres>
+		<genre id="3">Pop Acústico</genre>
+	</genres>
+	<duration seconds="201" />
+	<lyrics lang="en" format="str">
+	She don't wanna go outside tonight
+	</lyrics>
+	<album id="3">X</album>
+	<record_label id="3">Asylum Records</record_label>
+</song>

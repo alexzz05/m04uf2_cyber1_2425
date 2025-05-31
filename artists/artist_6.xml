@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="6">
+	<name>John Ryan</name>
+	<nationality country="USA" />
+	<birthdate date="1987-08-19" />
+	<albums />
+</artist>

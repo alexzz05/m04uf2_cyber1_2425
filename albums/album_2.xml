@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<album id="2">
+	<title>V</title>
+	<cover src="covers/v_cover.jpg" />
+	<songs>
+		<song id="3">Sugar</song>
+		<song id="4">Animals</song>
+		<song id="9">Maps</song>
+		<song id="10">It Was Always You</song>
+		<song id="20">Unkiss Me</song>
+		<song id="21">New Love</song>
+		<song id="22">Coming Back for You</song>
+		<song id="23">Feelings</song>
+		<song id="24">My Heart Is Open</song>
+	</songs>
+</album>

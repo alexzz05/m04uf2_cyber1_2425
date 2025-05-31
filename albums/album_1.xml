@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<album id="1">
+	<title>24K Magic</title>
+	<cover src="covers/24k_magic_cover.jpg" />
+	<songs>
+		<song id="1">24K Magic</song>
+		<song id="2">That’s What I Like</song>
+		<song id="7">Chunky</song>
+		<song id="8">Finesse</song>
+		<song id="15">Perm</song>
+		<song id="16">Versace on the Floor</song>
+		<song id="17">Straight Up & Down</song>
+		<song id="18">Calling All My Lovelies</song>
+		<song id="19">Too Good to Say Goodbye</song>
+	</songs>
+</album>

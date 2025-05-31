@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="8">
+	<title>Finesse</title>
+	<artists>
+		<artist id="1">Bruno Mars</artist>
+	</artists>
+	<genres>
+		<genre id="1">Funk</genre>
+	</genres>
+	<duration seconds="203" />
+	<lyrics lang="en" format="str">
+	We out here drippin' in finesse
+	</lyrics>
+	<album id="1">24K Magic</album>
+	<record_label id="1">Atlantic Records</record_label>
+</song>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<album id="4">
+	<title>Globalization</title>
+	<cover src="covers/globalization_cover.jpg" />
+	<songs>
+		<song id="13">Time of Our Lives</song>
+		<song id="14">Fireball</song>
+		<song id="33">Ah Leke</song>
+		<song id="34">Celebrate</song>
+		<song id="35">Sexy Beaches</song>
+		<song id="36">Day Drinking</song>
+		<song id="37">Drive You Crazy</song>
+		<song id="38">Wild Wild Love</song>
+		<song id="39">This Is Not a Drill</song>
+		<song id="40">We Are One (Ole Ola)</song>
+	</songs>
+</album>

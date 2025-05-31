@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<artist id="4">
+	<name>Pitbull</name>
+	<nationality country="USA" />
+	<birthdate date="1981-01-15" />
+	<albums>
+		<album id="4">Globalization</album>
+	</albums>
+</artist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<song id="4">
+	<title>Animals</title>
+	<artists>
+		<artist id="2">Maroon 5</artist>
+	</artists>
+	<genres>
+		<genre id="2">Pop Rock</genre>
+	</genres>
+	<duration seconds="231" />
+	<lyrics lang="en" format="str">
+	Baby I'm preying on you tonight
+	</lyrics>
+	<album id="2">V</album>
+	<record_label id="2">Interscope Records</record_label>
+</song>
